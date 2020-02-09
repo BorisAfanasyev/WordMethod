@@ -1,0 +1,7 @@
+D:\Homeworks\Homework 5mod\HW3\HW3\bin\Debug\HW3.exe.config
+D:\Homeworks\Homework 5mod\HW3\HW3\bin\Debug\HW3.exe
+D:\Homeworks\Homework 5mod\HW3\HW3\bin\Debug\HW3.pdb
+D:\Homeworks\Homework 5mod\HW3\HW3\obj\Debug\HW3.csprojAssemblyReference.cache
+D:\Homeworks\Homework 5mod\HW3\HW3\obj\Debug\HW3.csproj.CoreCompileInputs.cache
+D:\Homeworks\Homework 5mod\HW3\HW3\obj\Debug\HW3.exe
+D:\Homeworks\Homework 5mod\HW3\HW3\obj\Debug\HW3.pdb
